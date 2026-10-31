@@ -1,0 +1,36 @@
+# Credentials and secrets - never commit
+*.pem
+*.ppk
+*.key
+*.p12
+.env
+.env.*
+credentials
+.aws/
+*.tfvars
+secrets.*
+
+# Infrastructure-as-code state (if added later)
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+cdk.out/
+
+# Unsanitised screenshots, private evidence and the private audit report
+PRIVATE-originals-DO-NOT-PUBLISH/
+AUDIT-REPORT.md
+PRIVATE-originals*/
+originals/
+raw-screenshots/
+
+# OS, editor and tooling noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+node_modules/
+*.log
+*.tmp
