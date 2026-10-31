@@ -352,7 +352,6 @@ secure-scalable-aws-infrastructure/
 | [10](documentation/10-backup-and-disaster-recovery.md) | Backup and DR (conceptual) |
 | [11](documentation/11-load-balancing-and-auto-scaling.md) | ALB and Auto Scaling (conceptual) |
 | [12](documentation/12-troubleshooting-and-lessons-learned.md) | Troubleshooting and lessons |
-| [Checklist](documentation/missing-evidence-checklist.md) | Missing evidence |
 
 ## License
 
